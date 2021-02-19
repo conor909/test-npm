@@ -1,0 +1,19 @@
+{
+  "name": "conors-test-npm-semvers",
+  "version": "1.0.0",
+  "description": "Test semvers and publishing with releasify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conor909/test-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conor909/test-npm/issues"
+  },
+  "homepage": "https://github.com/conor909/test-npm#readme"
+}
