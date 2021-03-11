@@ -1,6 +1,6 @@
 {
   "name": "conors-test-npm-semvers",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "Test semvers and publishing with releasify",
   "main": "index.js",
   "scripts": {
